@@ -1,0 +1,10 @@
+{"timestamp":"00:00:04.579","source":"Server","level":"LOG","message":"- Cache Components enabled"}
+{"timestamp":"00:00:04.579","source":"Server","level":"LOG","message":"- Partial Prefetching enabled"}
+{"timestamp":"00:00:04.579","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:08.923","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:09.134","source":"Browser","level":"WARN","message":"Element not found: .learning-journey"}
+{"timestamp":"00:00:09.217","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mElement not found:\\u001b[39m\" \"\\u001b[33m.learning-journey\\u001b[39m\" \"\\u001b[2m(src/components/training-progression.tsx:36:14)\\u001b[22m\""}
+{"timestamp":"00:00:09.218","source":"Browser","level":"WARN","message":"Element not found: .learning-journey"}
+{"timestamp":"00:00:09.232","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mElement not found:\\u001b[39m\" \"\\u001b[33m.learning-journey\\u001b[39m\" \"\\u001b[2m(src/components/training-progression.tsx:36:14)\\u001b[22m\""}
+{"timestamp":"00:00:10.125","source":"Browser","level":"WARN","message":"React Flow: It seems like you are hiding the attribution. Please only do this when you are subscribed to React Flow Pro: https://reactflow.dev/remove-attr\nYou can ignore this warning if you are subscribed."}
+{"timestamp":"00:00:10.133","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mReact Flow: It seems like you are hiding the attribution. Please only do this when you are subscribed to React Flow Pro: https://reactflow.dev/remove-attr\\nYou can ignore this warning if you are subscribed.\\u001b[39m\""}
