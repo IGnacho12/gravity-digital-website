@@ -61,7 +61,7 @@ function TrainingComparison() {
               <span className="comparison-symbol comparison-symbol-muted" aria-hidden="true">−</span>
               <div>
                 <h3>Probar de todo no siempre ayuda</h3>
-                <p>Más aplicaciones no significan más claridad.</p>
+                <p>Más aplicaciones no significan más claridad</p>
               </div>
             </div>
             <ul className="friction-list">
